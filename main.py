@@ -105,3 +105,4 @@ async def ticket_setup(ctx):
 
 if __name__ == '__main__':
     bot.run(DISCORD_TOKEN)
+    .set_footer(Powered By Joker Devlopement 
