@@ -97,7 +97,7 @@ async def ticket_setup(ctx):
 
     embed = discord.Embed(
         title="Support Tickets",
-        description="Click the button below to open a new support ticket.",
+        description="<:ticket:1423179666415423548> Click the button below to open a new support ticket.",
         color=discord.Color.blue()
     )
     await ctx.send(embed=embed, view=TicketOpenView())
