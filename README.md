@@ -7,4 +7,4 @@ Add Your Discord Bot Token In .env File
 # Credits
 Made By @joker09245
 Support Server https://discord.gg/dgTRjeWzj
-Devloped By Joker Devlopement Team
+# Powered By Joker Devlopement 
